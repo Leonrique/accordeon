@@ -1,0 +1,85 @@
+	<!DOCTYPE html>
+	<html lang="pt-br">
+	<head>
+	<meta charset="utf-8"/>
+	</head>
+	<html lang="pt-br">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.min.js"></script>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-aria.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-messages.min.js"></script>
+	<script src='https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-114/svg-assets-cache.js'></script>
+
+	<script src="angular-material.1.0.1.js"></script>
+	<link rel="stylesheet" href="angular-material.1.0.1.css"/>
+	<link rel="stylesheet" href="ReplanejamentoServicos.css">
+	
+	<script src="ReplanejamentoServicos.js"></script>
+	<script src="jquery-3.2.1.min.js"></script>
+	<script src="underscore-min.js"></script>
+
+	<body>
+		<div ng-app="ReplanejamentoServicosApp" ng-controller="ReplanejamentoServicosController" class="">
+			<div class="md-accordion" ng-repeat="data in servicosOnly">
+				<md-content>
+					<md-toolbar ng-init="data.expanded = false" ng-click="collapseAll(data)" style="background-color: #205668">
+						<div class="md-toolbar-tools" style="font-size: 15px">
+							<h2>
+								<span>{{ data.codigo }}</span> - 
+								<span>{{ data.descricao }}</span>
+							</h2>
+							
+							<span flex=""></span>
+							<span ng-class="{expandCollapse:true, active:data.expanded}"></span> 
+						</div>
+					</md-toolbar>	
+					
+					<div class="md-accordion" ng-repeat="item in insumos">
+						<div ng-class="{dataContent:true, activeContent:data.expanded}" ng-init="item.expandedInsumo = false" ng-click="collapseInsumos(item)">
+							<md-toolbar style="background-color: grey">
+								<div class="md-toolbar-tools">
+									<h2>
+										<span>{{ item.codigoInsumo }}</span> - 
+										<span>{{ item.descricaoInsumo }}</span>
+									</h2>
+
+									<span flex=""></span>
+									<span ng-class="{expandCollapseInsumos:true, active:item.expandedInsumo}"></span> 
+								</div>
+							</md-toolbar>
+							
+							<div ng-class="{dataContent:true, activeContent:item.expandedInsumo}" ng-click="$event.stopPropagation()">
+								<div layout="row" layout-align="start" flex>
+									<md-input-container class="md-block" flex-gt-sm flex="33">
+										<label>Qtde. Serviço</label>
+										<input type="number" name="qtdeInsumo" ng-model="item.qtdeInsumo" ng-value="item.qtdeInsumo | number: 2"/>
+									</md-input-container>
+									
+									<md-input-container class="md-block" flex-gt-sm flex="33">
+										<label>Coeficiente</label>
+										<input type="number" name="qtdeInsumo" ng-model="item.qtdeInsumo" ng-value="item.qtdeInsumo | number: 2"/>
+									</md-input-container>
+
+									<md-input-container class="md-block" flex-gt-sm flex="33">
+										<label>Preço</label>
+										<input type="number" name="precoInsumo" ng-model="item.precoInsumo" ng-value="item.precoInsumo | number: 2"/>
+									</md-input-container>
+								</div>	
+									<md-button class="md-primary" ng-click="showConfirm()" ng-model="confirmar">Confirmar</md-button>
+									
+									<div ng-messages="projectForm.tos.$error" multiple md-auto-hide="true" ng-if="mostrarMensagem">
+									  <div ng-message="required">
+										Alteração feita com sucesso
+									  </div>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+					
+				</md-content>
+			</div>
+		</div>
+	</body>
+	</html>

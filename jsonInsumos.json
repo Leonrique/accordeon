@@ -1,0 +1,533 @@
+[
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1.5,
+    "codigoInsumo": "0002M",
+    "descricaoInsumo": "PROJETO DE ESTRUTURA",
+    "qtdeInsumo": 12,
+    "precoInsumo": 37500
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1.5,
+    "codigoInsumo": "010106P",
+    "descricaoInsumo": "AZULEJISTA",
+    "qtdeInsumo": 1,
+    "precoInsumo": 35
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1.5,
+    "codigoInsumo": "010125P",
+    "descricaoInsumo": "AJUDANTE DE GRANITEIRO/MARMORISTA",
+    "qtdeInsumo": 1,
+    "precoInsumo": 12.5
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1.5,
+    "codigoInsumo": "099999P",
+    "descricaoInsumo": "ENCARGOS SOCIAIS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 0
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1.5,
+    "codigoInsumo": "RAP001",
+    "descricaoInsumo": "PEDRA 47 X 25 X 12",
+    "qtdeInsumo": 10,
+    "precoInsumo": 125
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1.5,
+    "codigoInsumo": "RAP003",
+    "descricaoInsumo": "BRITA 1 OU 2",
+    "qtdeInsumo": 0,
+    "precoInsumo": 250
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "0002M",
+    "descricaoInsumo": "PROJETO DE ESTRUTURA",
+    "qtdeInsumo": 25000,
+    "precoInsumo": 37500
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010106P",
+    "descricaoInsumo": "AZULEJISTA",
+    "qtdeInsumo": 15,
+    "precoInsumo": 35
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010125P",
+    "descricaoInsumo": "AJUDANTE DE GRANITEIRO/MARMORISTA",
+    "qtdeInsumo": 15,
+    "precoInsumo": 12.5
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "PED01",
+    "descricaoInsumo": "s13 PROPORCIONAL",
+    "qtdeInsumo": 1,
+    "precoInsumo": 25
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 0
+  },
+  {
+    "codigo": 2,
+    "descricao": "PROJETO DE ESTRUTURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "PLANTAS01",
+    "descricaoInsumo": "PLANTAS PARA O JARDIM",
+    "qtdeInsumo": 1,
+    "precoInsumo": 45
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010141P",
+    "descricaoInsumo": "AJUDANTE DE PINTOR",
+    "qtdeInsumo": 499,
+    "precoInsumo": 250
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 0
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "RAP001",
+    "descricaoInsumo": "PEDRA 47 X 25 X 12",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010141P",
+    "descricaoInsumo": "AJUDANTE DE PINTOR",
+    "qtdeInsumo": 542,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 0
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "RAP001",
+    "descricaoInsumo": "PEDRA 47 X 25 X 12",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010141P",
+    "descricaoInsumo": "AJUDANTE DE PINTOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 0
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 0,
+    "codigoInsumo": "010141P",
+    "descricaoInsumo": "AJUDANTE DE PINTOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 0,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 0
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010141P",
+    "descricaoInsumo": "AJUDANTE DE PINTOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 100
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "RAP001",
+    "descricaoInsumo": "PEDRA 47 X 25 X 12",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010141P",
+    "descricaoInsumo": "AJUDANTE DE PINTOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 50
+  },
+  {
+    "codigo": "200502P",
+    "descricao": "ESMALTE.DUAS DEMAOS EM ESQUADRIAS DE MADEIRA",
+    "qtdeServico": 1,
+    "codigoInsumo": "RAP001",
+    "descricaoInsumo": "PEDRA 47 X 25 X 12",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "0001M",
+    "descricaoInsumo": "PROJETO DE ARQUITETURA",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1250
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": 378,
+    "descricaoInsumo": "AÇO  CA 60  6,0 MM",
+    "qtdeInsumo": 10,
+    "precoInsumo": 125
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": 379,
+    "descricaoInsumo": "AÇO CA 50/60",
+    "qtdeInsumo": 12,
+    "precoInsumo": 105
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "010130P",
+    "descricaoInsumo": "MONTADOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "RAP001",
+    "descricaoInsumo": "PEDRA 47 X 25 X 12",
+    "qtdeInsumo": 0,
+    "precoInsumo": 3000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "RAP003",
+    "descricaoInsumo": "BRITA 1 OU 2",
+    "qtdeInsumo": 10,
+    "precoInsumo": 2000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "0001M",
+    "descricaoInsumo": "PROJETO DE ARQUITETURA",
+    "qtdeInsumo": 1,
+    "precoInsumo": 100
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010130P",
+    "descricaoInsumo": "MONTADOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "RAP003",
+    "descricaoInsumo": "BRITA 1 OU 2",
+    "qtdeInsumo": 1,
+    "precoInsumo": 2000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "0001M",
+    "descricaoInsumo": "PROJETO DE ARQUITETURA",
+    "qtdeInsumo": 1,
+    "precoInsumo": 100
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 1,
+    "codigoInsumo": "010130P",
+    "descricaoInsumo": "MONTADOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "0001M",
+    "descricaoInsumo": "PROJETO DE ARQUITETURA",
+    "qtdeInsumo": 1,
+    "precoInsumo": 100
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "010130P",
+    "descricaoInsumo": "MONTADOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "0001M",
+    "descricaoInsumo": "PROJETO DE ARQUITETURA",
+    "qtdeInsumo": 1,
+    "precoInsumo": 100
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "010130P",
+    "descricaoInsumo": "MONTADOR",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1000
+  },
+  {
+    "codigo": 1,
+    "descricao": "PROJETO DE ARQUITETURA",
+    "qtdeServico": 10,
+    "codigoInsumo": "RAP001",
+    "descricaoInsumo": "PEDRA 47 X 25 X 12",
+    "qtdeInsumo": 10,
+    "precoInsumo": 125
+  },
+  {
+    "codigo": 4,
+    "descricao": "PROJETO EXECUTIVO",
+    "qtdeServico": 10,
+    "codigoInsumo": "PED01",
+    "descricaoInsumo": "s13 PROPORCIONAL",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1250
+  },
+  {
+    "codigo": 4,
+    "descricao": "PROJETO EXECUTIVO",
+    "qtdeServico": 10,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 125
+  },
+  {
+    "codigo": 4,
+    "descricao": "PROJETO EXECUTIVO",
+    "qtdeServico": 10,
+    "codigoInsumo": "PLANTAS01",
+    "descricaoInsumo": "PLANTAS PARA O JARDIM",
+    "qtdeInsumo": 1,
+    "precoInsumo": 12
+  },
+  {
+    "codigo": 4,
+    "descricao": "PROJETO EXECUTIVO",
+    "qtdeServico": 10,
+    "codigoInsumo": "PED01",
+    "descricaoInsumo": "s13 PROPORCIONAL",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1250
+  },
+  {
+    "codigo": 4,
+    "descricao": "PROJETO EXECUTIVO",
+    "qtdeServico": 10,
+    "codigoInsumo": "PEDR01",
+    "descricaoInsumo": "PEDRAS",
+    "qtdeInsumo": 1,
+    "precoInsumo": 125
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 5,
+    "codigoInsumo": "020578P",
+    "descricaoInsumo": "AREIA FINA",
+    "qtdeInsumo": 2,
+    "precoInsumo": 24.69
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 5,
+    "codigoInsumo": "020579P",
+    "descricaoInsumo": "AREIA MEDIA",
+    "qtdeInsumo": 2,
+    "precoInsumo": 32
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 5,
+    "codigoInsumo": "021005P",
+    "descricaoInsumo": "MADEIRA (PEROBA)",
+    "qtdeInsumo": 1,
+    "precoInsumo": 4
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 5,
+    "codigoInsumo": "021016P",
+    "descricaoInsumo": "SARRAFO DE PINHO DE 1´X4´ DE 3A.CONSTRUCAO",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 5,
+    "codigoInsumo": "022004P",
+    "descricaoInsumo": "LAJE PRE-FABRICADA DE 16CM",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 10,
+    "codigoInsumo": "020578P",
+    "descricaoInsumo": "AREIA FINA",
+    "qtdeInsumo": 2,
+    "precoInsumo": 24.69
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 10,
+    "codigoInsumo": "020579P",
+    "descricaoInsumo": "AREIA MEDIA",
+    "qtdeInsumo": 2,
+    "precoInsumo": 32
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 10,
+    "codigoInsumo": "021005P",
+    "descricaoInsumo": "MADEIRA (PEROBA)",
+    "qtdeInsumo": 1,
+    "precoInsumo": 4
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 10,
+    "codigoInsumo": "021016P",
+    "descricaoInsumo": "SARRAFO DE PINHO DE 1´X4´ DE 3A.CONSTRUCAO",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1
+  },
+  {
+    "codigo": 1.5,
+    "descricao": "Composicao Teste 5",
+    "qtdeServico": 10,
+    "codigoInsumo": "022004P",
+    "descricaoInsumo": "LAJE PRE-FABRICADA DE 16CM",
+    "qtdeInsumo": 1,
+    "precoInsumo": 1
+  }
+]
